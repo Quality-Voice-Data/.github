@@ -1,16 +1,16 @@
-\---
+---
 
 name: Bug report
 
 about: Something is behaving incorrectly or is misleading
 
-title: "\[Bug] "
+title: "[Bug] "
 
 labels: bug
 
 assignees: ""
 
-\---
+---
 
 
 
@@ -24,7 +24,7 @@ Before posting: redact customer names, phone numbers, IPs, and credentials if th
 
 
 
-\## Summary
+## Summary
 
 <!-- One or two sentences: what's wrong, and where. -->
 
@@ -32,7 +32,7 @@ Before posting: redact customer names, phone numbers, IPs, and credentials if th
 
 
 
-\## Impact
+## Impact
 
 <!-- Why it matters. Who's affected, and what decision or action could go wrong because of it? -->
 
@@ -40,29 +40,29 @@ Before posting: redact customer names, phone numbers, IPs, and credentials if th
 
 
 
-\## Environment
+## Environment
 
-\- \*\*Environment:\*\* <!-- Production / Staging / Local -->
+- **Environment:** <!-- Production / Staging / Local -->
 
-\- \*\*Page / component / endpoint:\*\*
+- **Page / component / endpoint:**
 
-\- \*\*Browser (if UI):\*\*
+- **Browser (if UI):**
 
-\- \*\*Version / commit (if known):\*\*
-
-
-
-\## Steps to reproduce
-
-1\.
-
-2\.
-
-3\.
+- **Version / commit (if known):**
 
 
 
-\## Expected behavior
+## Steps to reproduce
+
+1.
+
+2.
+
+3.
+
+
+
+## Expected behavior
 
 <!-- What should happen? Suggested fixes or options are welcome. -->
 
@@ -70,7 +70,7 @@ Before posting: redact customer names, phone numbers, IPs, and credentials if th
 
 
 
-\## Actual behavior
+## Actual behavior
 
 <!-- What happens instead? -->
 
@@ -78,19 +78,19 @@ Before posting: redact customer names, phone numbers, IPs, and credentials if th
 
 
 
-\## Evidence
+## Evidence
 
 <!-- Screenshots, logs, queries. Type key values as text too, since images aren't searchable. -->
 
 
 
-\*\*Screenshots:\*\*
+**Screenshots:**
 
 
 
 
 
-\*\*Query / logs:\*\*
+**Query / logs:**
 
 ```sql
 
@@ -100,7 +100,7 @@ Before posting: redact customer names, phone numbers, IPs, and credentials if th
 
 
 
-\*\*Key results:\*\*
+**Key results:**
 
 <!-- e.g. record count, newest / oldest dates, error codes -->
 
@@ -108,7 +108,7 @@ Before posting: redact customer names, phone numbers, IPs, and credentials if th
 
 
 
-\## Possible cause
+## Possible cause
 
 <!-- Optional. Link the file, function, or query that likely drives the behavior. -->
 
@@ -116,5 +116,5 @@ Before posting: redact customer names, phone numbers, IPs, and credentials if th
 
 
 
-\## Additional notes
+## Additional notes
 
